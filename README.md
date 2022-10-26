@@ -14,4 +14,5 @@
 
 
   
-![enkapsulasi2](https://user-images.githubusercontent.com/115930300/198042499-c6700441-9990-422f-a30b-42de634ec898.png)
+![Screenshot_1](https://user-images.githubusercontent.com/115930300/198043088-fd02f490-092c-4450-9f95-6916138c2740.png)
+
