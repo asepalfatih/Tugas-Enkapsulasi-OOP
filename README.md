@@ -10,4 +10,4 @@
 
 
 
-  [enkapsulasi2](https://user-images.githubusercontent.com/115930300/198036118-ca00846a-00d3-4130-ae13-c10627ff5786.png)
+  (https://user-images.githubusercontent.com/115930300/198036118-ca00846a-00d3-4130-ae13-c10627ff5786.png)
